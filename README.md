@@ -2,7 +2,7 @@
 
 This is a dissertation project about generating questions based on bank contracts with NLP using T5 and BART pretrained model.
 
-The related files are all uploaded into github, except the model files, because they are too large to be uploaded, so I put them here:https://drive.google.com/drive/folders/1qeYaYDuNyvrvbRQa8LPhNtROMgfklXeS
+The related files are all uploaded into github, except the model files, because they are too large to be uploaded, so I put them here:https://drive.google.com/drive/folders/1qeYaYDuNyvrvbRQa8LPhNtROMgfklXeS?usp=sharing
 
 We collected our own dataset from 2 resources: FAQs crawled from 20 bank websites, and manually constructed questions from parsed PDF files of 10 bank contracts. 
 
